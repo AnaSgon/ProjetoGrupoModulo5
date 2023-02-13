@@ -11,14 +11,14 @@ Instalações:
 
 ```
 npm init -y
-npm install Express
-npm install Sequelize
-npm install Express-Handlebars
+npm install express
+npm install sequelize
+npm install express-handlebars
 npm install express-session
-npm install express-Flash
+npm install express-flash
 npm install cookie-parser
 npm install cookie-session
-npm install session-File-Store
+npm install session-file-store
 npm install bcryptjs
 npm install connect-flash
 npm install mysql2 
