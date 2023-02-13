@@ -7,21 +7,39 @@
 3. WORK BENCH
 4. VSCode
 
+Instalações:
+
+```
+npm init -y
+npm install Express
+npm install Sequelize
+npm install Express-Handlebars
+npm install express-session
+npm install express-Flash
+npm install cookie-parser
+npm install cookie-session
+npm install session-File-Store
+npm install bcryptjs
+npm install connect-flash
+npm install mysql2 
+```
+
 
 ## Dependências
 
- 1. MySQL2 
+ 1. npm init -y
  2. Express
  3. Sequelize
  4. Express-Handlebars
- 5. Express-Session
- 6. Express-Flash
- 7. Cookie-parser
- 8. Cookie-session
- 9. Session-File-Store
- 10. Bribptyjs
+ 5. express-session
+ 6. express-Flash
+ 7. cookie-parser
+ 8. cookie-session
+ 9. session-File-Store
+ 10. bcryptjs;
  11. connect-flash
-
+ 12. mysql2 
+ 
 ## Passo a Passo de como iniciar o MARKET LIST
 
 1. É necessário realizar o download dos programas: XAMPP, WORK BENCH, VS CODE, NODE JS.
