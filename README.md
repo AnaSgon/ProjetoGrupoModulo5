@@ -11,6 +11,7 @@ Instalações:
 
 ```
 npm init -y
+npm install nodemon
 npm install express
 npm install sequelize
 npm install express-handlebars
